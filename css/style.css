@@ -1,0 +1,15 @@
+h2{
+
+	border: 5px solid yellow;
+	background-color: orchid;
+}
+
+.quote{
+	border: 2px solid blue;
+	background-color: seagreen;
+}
+
+.footer{
+	border: 3px solid blueviolet;
+	background-color: mistyrose;
+}
